@@ -4,5 +4,5 @@ __pycache__/
 .vscode/
 build/
 dist/
-Planning.odt
+.Planning.odt
 .gitignore
