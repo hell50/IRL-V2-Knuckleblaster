@@ -80,9 +80,9 @@ while True:
         kb.fire_lighter()
         
     if kb.imuCheck(y): 
-        if kb.servoClosed = 0:
+        if kb.servoClosed == 0:
             kb.servo_angle(kb.latchAng)
             kb.servoClosed = 1
-        if kb.servoClosed = 0:
+        if kb.servoClosed == 1:
             kb.servo_angle(kb.releaseAng)
             kb.servoClosed = 0
