@@ -9,7 +9,8 @@
 ![PCB Routing View](images/Screenshot%202026-11-13%20212105.png)
 ![CAD Glove View](images/Screenshot%202026-11-15%20215457.png)  
 
-**By repleKKa / Tima K**
+**By repleKKa / Tima K**  
+
 ![DragonLogo](images/DragonSKlogo.jpeg)  
 
 
