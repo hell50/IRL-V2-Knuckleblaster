@@ -1,5 +1,18 @@
 # V2’S Knuckleblaster  
 
+## Welcome to my repository, internet prowler...
+
+### Image gallery:  
+
+![3D Board View](images/Screenshot%202026-11-13%20205136.png)
+![Silkscreen/Crediting](images/Screenshot%202026-11-13%20205402.png)
+![PCB Routing View](images/Screenshot%202026-11-13%20212105.png)
+![CAD Glove View](images/Screenshot%202026-11-15%20215457.png)  
+
+**By repleKKa / Tima K**
+![DragonLogo](images/DragonSKlogo.jpeg)  
+
+
 
 #### What *this* Is  
 
