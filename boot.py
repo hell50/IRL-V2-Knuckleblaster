@@ -75,10 +75,5 @@ while True:
         kb.fire_solenoid()
         kb.fire_lighter()
         
-        reloadReset = 1
-        while reloadReset:
-            x, y, z = kb.accelerometer.acceleration
-            if kb.imuCheck(z): 
-                kb.servo_angle(kb.latchAng)
-                reloadReset = 0
-                break
+    if kb.imuCheck(y): 
+        kb.servo_angle(kb.latchAng)
