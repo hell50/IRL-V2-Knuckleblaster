@@ -14,7 +14,8 @@ class Knuckleblaster:
                  releaseAng=90,
                  latchAng=0,
                  imu_threshold=2.5,
-                 earthGravity=9.8):
+                 earthGravity=9.8,
+                 servoClosed=0):
         
         self.i2c = I2C(i2c_id, scl=Pin(scl_pin), sda=Pin(sda_pin), freq=400000)
         self.accelerometer = adafruit_adxl34x.ADXL343(self.i2c)
@@ -30,6 +31,7 @@ class Knuckleblaster:
         self.latchAng = latchAng
         self.imu_threshold = imu_threshold
         self.earthGravity = earthGravity
+        self.servoClosed = servoClosed
 
     def imuCheck(self, axis_value):
         triggered = 0
@@ -65,6 +67,8 @@ class Knuckleblaster:
         self.lighter.value(0)
 
 kb = Knuckleblaster()
+kb.servo_angle(kb.releaseAng)
+kb.servoClosed = 0
 
 while True:
     x, y, z = kb.accelerometer.acceleration
@@ -76,4 +80,9 @@ while True:
         kb.fire_lighter()
         
     if kb.imuCheck(y): 
-        kb.servo_angle(kb.latchAng)
+        if kb.servoClosed = 0:
+            kb.servo_angle(kb.latchAng)
+            kb.servoClosed = 1
+        if kb.servoClosed = 0:
+            kb.servo_angle(kb.releaseAng)
+            kb.servoClosed = 0
