@@ -14,7 +14,7 @@
 ![DragonLogo](images/DragonSKlogo.jpeg)  
 
 
-## Now the serious stuff trust...  
+## Now the serious stuff trust...  (A.K.A. a general explanation)
 
 
 ### What *this* Is  
@@ -38,9 +38,10 @@ Jerk your hand up sharply (be carefule not to do the salute 💀) to trigger the
 
 ### Why I made *this*  
 
-I made this because of [#Fallen @ Hackclub](fallen.hackclub.com), because of my love of ULTRAKILL (I am not a larper trust), and because I like making dangerous stuff <3. The chaps (I am not BRITISH) over there are really cool. The way Fallen works is that you work for a few hours a day, and then journal it. Add an image and 200 charachters of text an hour, and ur good (but you should do more work trust). Anyways onto the second
+I made this because of [#Fallen @ Hackclub](fallen.hackclub.com), because of my love of ULTRAKILL (I am not a larper trust), and because I like making dangerous stuff <3. The chaps (I am not BRITISH) over there are really cool. The way Fallen works is that you work for a few hours a day, and then journal it. Add an image and 200 charachters of text an hour, and ur good (but you should do more work trust). Anyways onto the second reason... ULTRAKILL. Probably one of the most influential indie games in existence. One person made this peak of a game. I ***legally purchased*** the game some time ago, and started playing. While I haven't gotten too far (2-2, please don't kill me) in the game, I am in love with the art style; low-poly machines, rounded angelic figures, and other things/stuff/etc. etc. Originally, I meant to recreate V1's head as a helmet, but that went poorly. I spent 18+ hours on that (sobs quitely in corner) and it didn't work because it was wayyyyy to large and also because Blender kinda sucks. So I yapped in a huddle for like an hour and a halfish until a fellow ultrakill player suggested I make V2's Knuckleblaster. And now the third reason... weapo- *ahem* I mean completely safe and **totally** (I HOPE YOU CAN TELL I AM DRIPPING WITH SARCASM) OSHA compliant. Nerf guns have always interested me so I was like Ultrakill item IRL + weapon + Fallen = the peakest formula in existence. So that's why I made this. Yeah. Now since you read this far, go make something new! 
   
 [^1]: Method is not yet devloped to load shell or HHO  
 
 [^Sources]:  
+- Me
 - https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fultrakill.wiki.gg%2Fimages%2FKnuckleblaster_gutterman_shield_break.gif%3F74170c&f=1&nofb=1&ipt=6716667dc868ad39618a6990aa4517bac2c8e4df75519246ce3ba1dcdfbfe9a6&ipo=images  
