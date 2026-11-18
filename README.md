@@ -17,7 +17,7 @@
 ## Now the serious stuff trust...  
 
 
-#### What *this* Is  
+### What *this* Is  
 
 
 *This* is a real-world replication of the fictional weapon called the Knuckleblaster from the hit indie game ULTRAKILL by Arsi "Hakita" Patala. The weapon is obtained from killing the Boss V2 in the stage **1-4: CLAIR DE LUNE**, and then picking it up from the ground. The weapon is used by double-tapping the "f" button. By doing this, it creates an explosion in front of the user that damages and blasts enemies away. Here is a demo GIF:  
@@ -25,9 +25,9 @@
 
 ![Knuckleblaster Demo](GIFs/Knuckleblaster_gutterman_shield_break-2432847101.gif)  [^Sources]  
 
-So this is what I sought/seek/suk/sak to create is a replica of this, in real life. And this is the readme for that :D! While I will be a bit of a joker in some bits like this, but this README will remain true to it's purpose- inform, interest, and entertain. Anyways, go play Ultrakill, make a fork of my project, or go do something at [HackClub](Hackclub.com). The people over there are great, they're why I did this!
+So this is what I sought/seek/suk/sak to create is a replica of this, in real life. And this is the readme for that :D! While I will be a bit of a joker in some bits like this, but this README will remain true to it's purpose- inform, interest, and entertain. Anyways, go play Ultrakill, make a fork of my project, or go do something at [HackClub](hackclub.com). The people over there are great, they're why I did this!
 
-#### How to Use  
+### How to Use  
 
 
 **Initial setup:**
@@ -36,7 +36,9 @@ Power on the Knuckleblaster by flipping the MB_Power switch to on. The servo sho
 **Regular use:**  
 Jerk your hand up sharply (be carefule not to do the salute 💀) to trigger the IMU unlatch. Load the shell (HHO loaded) [^1] into the slot under the glove. Raise your hand up or down sharply to latch the shell. Make sure that the hand your left hand is properly protected. Then jerk it forward to activate the mechanism. In one second, the electric lighter should fire and then the solenoid should fire immediately, ejecting the shell and then making the gas burst. The latch should unlatch as well. If it doesn't, then jerk your hand upward to unlatch it (through IMU activation).  
 
-  
+### Why I made *this*  
+
+I made this because of [#Fallen @ Hackclub](fallen.hackclub.com), because of my love of ULTRAKILL (I am not a larper trust), and because I like making dangerous stuff <3. The chaps (I am not BRITISH) over there are really cool. The way Fallen works is that you work for a few hours a day, and then journal it. Add an image and 200 charachters of text an hour, and ur good (but you should do more work trust). Anyways onto the second
   
 [^1]: Method is not yet devloped to load shell or HHO  
 
