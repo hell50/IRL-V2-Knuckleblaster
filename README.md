@@ -1,6 +1,10 @@
 # V2’S Knuckleblaster  
+  
+
 
 ## Welcome to my repository, internet prowler...
+  
+
 
 ### Image gallery:  
 
@@ -12,9 +16,16 @@
 **By repleKKa / Tima K**  
 
 ![DragonLogo](images/DragonSKlogo.jpeg)  
+  
 
 
 
+## Now the serious stuff trust...
+  
+
+
+
+  
 #### What *this* Is  
 
 *This* is a real-world replication of the fictional weapon called the Knuckleblaster from the hit indie game ULTRAKILL by Arsi "Hakita" Patala. The weapon is obtained from killing the Boss V2 in the stage **1-4: CLAIR DE LUNE**, and then picking it up from the ground. The weapon is used by double-tapping the "f" button. By doing this, it creates an explosion in front of the user that damages and blasts enemies away.
