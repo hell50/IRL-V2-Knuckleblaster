@@ -23,7 +23,7 @@
 *This* is a real-world replication of the fictional weapon called the Knuckleblaster from the hit indie game ULTRAKILL by Arsi "Hakita" Patala. The weapon is obtained from killing the Boss V2 in the stage **1-4: CLAIR DE LUNE**, and then picking it up from the ground. The weapon is used by double-tapping the "f" button. By doing this, it creates an explosion in front of the user that damages and blasts enemies away. Here is a demo GIF:  
 
 
-![Knuckleblaster Demo](GIFs/Knuckleblaster_gutterman_shield_break-2432847101.gif)  [^Sources]  
+![Knuckleblaster Demo](GIFs/Knuckleblaster_gutterman_shield_break-2432847101.gif)
 
 So this is what I sought/seek/suk/sak to create is a replica of this, in real life. And this is the readme for that :D! While I will be a bit of a joker in some bits like this, but this README will remain true to it's purpose- inform, interest, and entertain. Anyways, go play Ultrakill, make a fork of my project, or go do something at [HackClub](hackclub.com). The people over there are great, they're why I did this!
 
@@ -42,6 +42,7 @@ I made this because of [#Fallen @ Hackclub](fallen.hackclub.com), because of my 
   
 [^1]: Method is not yet devloped to load shell or HHO  
 
-[^Sources]:  
+## Image Sources  
+
 - Me
 - https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fultrakill.wiki.gg%2Fimages%2FKnuckleblaster_gutterman_shield_break.gif%3F74170c&f=1&nofb=1&ipt=6716667dc868ad39618a6990aa4517bac2c8e4df75519246ce3ba1dcdfbfe9a6&ipo=images  
