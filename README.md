@@ -20,11 +20,12 @@
 #### What *this* Is  
 
 
-*This* is a real-world replication of the fictional weapon called the Knuckleblaster from the hit indie game ULTRAKILL by Arsi "Hakita" Patala. The weapon is obtained from killing the Boss V2 in the stage **1-4: CLAIR DE LUNE**, and then picking it up from the ground. The weapon is used by double-tapping the "f" button. By doing this, it creates an explosion in front of the user that damages and blasts enemies away. Here is a demo image:  
+*This* is a real-world replication of the fictional weapon called the Knuckleblaster from the hit indie game ULTRAKILL by Arsi "Hakita" Patala. The weapon is obtained from killing the Boss V2 in the stage **1-4: CLAIR DE LUNE**, and then picking it up from the ground. The weapon is used by double-tapping the "f" button. By doing this, it creates an explosion in front of the user that damages and blasts enemies away. Here is a demo GIF:  
 
 
 ![Knuckleblaster Demo](GIFs/Knuckleblaster_gutterman_shield_break-2432847101.gif)  [^Sources]  
 
+So this is what I sought/seek/suk/sak to create is a replica of this, in real life. And this is the readme for that :D! While I will be a bit of a joker in some bits like this, but this README will remain true to it's purpose- inform, interest, and entertain. Anyways, go play Ultrakill, make a fork of my project, or go do something at [HackClub](Hackclub.com). The people over there are great, they're why I did this!
 
 #### How to Use  
 
