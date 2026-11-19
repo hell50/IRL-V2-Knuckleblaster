@@ -4,10 +4,10 @@
   
 ### Image gallery:  
 
-![3D Board View](images/Screenshot%202026-11-13%20205136.png)
-![Silkscreen/Crediting](images/Screenshot%202026-11-13%20205402.png)
-![PCB Routing View](images/Screenshot%202026-11-13%20212105.png)
-![CAD Glove View](images/Screenshot%202026-11-15%20215457.png)  
+![3D Board View](readme%20stuff/images/Screenshot%202026-11-13%20205136.png)
+![Silkscreen/Crediting](readme%20stuff/images/Screenshot%202026-11-13%20205402.png)
+![PCB Routing View](readme%20stuff/images/Screenshot%202026-11-13%20212105.png)
+![CAD Glove View](readme%20stuff/images/Screenshot%202026-11-15%20215457.png)  
 
 **By repleKKa / Tima K**  
 
