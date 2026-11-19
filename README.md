@@ -1,8 +1,8 @@
 # V2’S Knuckleblaster  
   
-## Welcome to my repository, internet prowler...
+### Welcome to my repository, internet prowler...
   
-### Image gallery:  
+## Some Pictures:  
 
 ![3D Board View](readme%20stuff/images/Screenshot%202026-11-13%20205136.png)
 ![Silkscreen/Crediting](readme%20stuff/images/Screenshot%202026-11-13%20205402.png)
